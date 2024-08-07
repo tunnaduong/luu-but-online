@@ -31,7 +31,7 @@ require 'serverconnect.php';
   <div class="content">
     <div class="panel" id="panel-home" style="display: block;height: 265px;">
       <h1>lưu bút</h1>
-      <span class="luubut-version">v1.0.3</span>
+      <span class="luubut-version">v2.0.24</span>
       <h2>Một lưu bút trực tuyến bởi<br>Tùng Anh (Tunna Duong)</h2>
       <ul>
         <li>
